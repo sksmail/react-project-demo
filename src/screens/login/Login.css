@@ -1,0 +1,14 @@
+.form-main {
+  margin-top : 100px;
+}
+
+.form-signin  { 
+  margin-bottom: 2px;
+  width: 500px;
+  height: 300ps;
+  margin: 0 auto; 
+}
+
+.form-control {
+  margin-bottom: 2px;
+}
